@@ -1,1 +1,2 @@
 Me chamo Willian, tenho 18 anos e sou estudante de engenharia de software na UniFil, na atividade que estou fazendo aprendi um pouco sobre o git bash, como listar, apagar e criar usuários e emails, listar e apagar chaves e como configurar novas chaves, e testar a conexão dela. Também aprendi a criar um repositório no GitHub, a criar uma pasta pelo git bash, inicializar o git nela e a criar um arquivo de texto.
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
